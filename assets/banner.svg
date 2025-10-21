@@ -1,0 +1,23 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1200" y2="0">
+      <stop stop-color="#00FFE3"/>
+      <stop offset="1" stop-color="#9B59FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <g opacity="0.55" stroke="url(#neon)">
+    <path d="M-50 40 C 200 -20, 400 60, 650 40 S 1000 -20, 1250 40" stroke-width="1.2"/>
+    <path d="M-50 120 C 200 60, 400 140, 650 120 S 1000 60, 1250 120" stroke-width="1.2"/>
+    <path d="M-50 200 C 200 140, 400 220, 650 200 S 1000 140, 1250 200" stroke-width="1.2"/>
+    <path d="M-50 280 C 200 220, 400 300, 650 280 S 1000 220, 1250 280" stroke-width="1.2"/>
+  </g>
+  <g>
+    <text x="60" y="160" fill="#E6F1FF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-weight="800" font-size="48">Niket — I build practical AI products</text>
+    <text x="60" y="210" fill="#9FB0C2" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Agents · RAG · Fast APIs · Chat UX</text>
+  </g>
+</svg>
