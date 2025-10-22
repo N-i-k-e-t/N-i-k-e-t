@@ -101,7 +101,7 @@ UX → Orchestrator → [Tools, RAG, Memory, Guardrails] → Telemetry/Evals
 ---
 
 ## Hire me (fast contact)
-**WhatsApp:** https://wa.me/91XXXXXXXXXX · **Calendly:** https://calendly.com/YOUR_LINK/20min · **Email:** niketpatil1624@gmail.com
+**WhatsApp:** https://wa.me/919022790410 · **Calendly:** https://calendly.com/niketpatil · **Email:** niketpatil1624@gmail.com
 
 <p align="center">
   <a href="mailto:niketpatil1624@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white"></a>
