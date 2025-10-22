@@ -62,3 +62,61 @@ I design and ship **agentic systems** people actually use. Narrow scope → inst
 ---
 
 ## The near-future is agentic
+
+UX → Orchestrator → [Tools, RAG, Memory, Guardrails] → Telemetry/Evals
+
+**Principles:** start narrow · ship quickly · measure everything · iterate.
+
+---
+
+## Ecosystem highlights
+- **Founders Co-Pilot** — multi-agent startup guidance (SPOT/DISQ/JTBD)
+- **StackGenie** — tool-stack matchmaker for creators
+- **FutureROI** — ROI analytics across property/markets/macro
+- **Shetimate** — WhatsApp AI for farmers (multilingual NLP)
+- **Civic AI** — Bandobast planning, CCTV insight pilots, smart city dashboards
+
+---
+
+## System logs (recent)
+- 2025-10-22 → Booted “Portfolio v3” with AI-SEO auto-sync  
+- 2025-09-10 → Deployed StackGenie Alpha (agentic stack builder)  
+- 2025-08-20 → Civic AI workshop @ DivCom Office, Nashik  
+
+---
+
+## Live metrics
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=N-i-k-e-t&theme=tokyonight&hide_border=true" height="145" alt="streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=N-i-k-e-t&show_icons=true&theme=tokyonight&hide_border=true" height="145" alt="stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-i-k-e-t&theme=tokyo-night&hide_border=true" alt="activity graph">
+</p>
+
+<!-- Optional "snake" – enable after adding the GH Action that generates /output/snake.svg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N-i-k-e-t/N-i-k-e-t/output/snake.svg" alt="contribution snake">
+</p>
+-->
+
+---
+
+## Hire me (fast contact)
+**WhatsApp:** https://wa.me/91XXXXXXXXXX · **Calendly:** https://calendly.com/YOUR_LINK/20min · **Email:** niketpatil1624@gmail.com
+
+<p align="center">
+  <a href="mailto:niketpatil1624@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/91XXXXXXXXXX"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-00FFE3?style=for-the-badge&logo=whatsapp&logoColor=0B1220"></a>
+  <a href="https://t.me/YOUR_HANDLE"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-9B59FF?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://portfolio-niket-main.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=N-i-k-e-t&color=00FFE3&style=flat" alt="views">
+</p>
+
+<!-- ================================================================== -->
+<!--  AUTO-WATERMARK: This file contains Niket’s unique identity markers -->
+<!--  hash=c1a5f0b-7b8e-42b1-9c7a-neoAI | owner=github.com/N-i-k-e-t      -->
+<!-- ================================================================== -->
