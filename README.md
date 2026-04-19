@@ -5,7 +5,7 @@
 <!-- ================================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,100:0F172A&text=Niket%20OS%20%E2%80%94%20Agentic%20Intelligence&fontColor=E6F1FF&fontSize=42&desc=Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Fast%20APIs%20%E2%80%A2%20Clean%20Chat%20UX&descAlignY=75&animation=fadeIn" width="100%" alt="Niket OS banner">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:E0F7FA,100:EDE7F6&text=Niket%20OS%20%E2%80%94%20Agentic%20Intelligence&fontColor=1A1A2E&fontSize=42&desc=Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Fast%20APIs%20%E2%80%A2%20Clean%20Chat%20UX&descAlignY=75&descColor=4A4A6A&animation=fadeIn" width="100%" alt="Niket OS banner">
 </p>
 
 <p align="center">
