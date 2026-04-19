@@ -15,10 +15,10 @@
 <pre><code>
 > booting niket.os v3.0 ...
 > loading modules [agents, rag, fast_api, chat_ux, civic_ai, agent_os, colony_sim]
-> identity .... verified (NIKET-01-AIPERSON)
-> neural uplink .... connected
-> agent_os kernel .... standby
-> 10 projects loaded .... all systems nominal
+> identity .... ✅ verified (NIKET-01-AIPERSON)
+> neural uplink .... 🟢 connected
+> agent_os kernel .... ⚡ standby
+> 10 projects loaded .... 🚀 all systems nominal
 </code></pre>
 
 ---
@@ -29,9 +29,6 @@
   <img src="./assets/banner.svg" width="100%" alt="Niket banner animation">
 </p>
 
-<p align="center">
-  <img src="./assets/hero-grid.svg" width="100%" alt="Agent OS network grid">
-</p>
 
 ---
 
@@ -43,15 +40,15 @@
 
 ---
 
-## Vision
+## 🔭 Vision
 Make AI learn and implement in **each and every thing** — from the mundane (journaling a trade) to the civilizational (simulating a Mars colony). The thesis: the next decade belongs to *agentic infrastructure* + *gamified human feedback loops* + *multi-planet simulation*.
 
-## 30-Day Mission
+## 🎯 30-Day Mission
 Ship 10 products. First $2M ARR-equivalent across free + paid tiers. Public build log.
 
 ---
 
-## The Stack (3 tracks, 10 products)
+## 🗺️ The Stack (3 tracks, 10 products)
 
 ### 1. Gamified Social-AI (consumer flagship)
 | Project | What it is | Stage |
@@ -77,7 +74,7 @@ Ship 10 products. First $2M ARR-equivalent across free + paid tiers. Public buil
 
 ---
 
-## How the stack compounds
+## 🧠 How the stack compounds
 ```
 agent-os (kernel)
   └→ sense-engine (perception)
@@ -92,7 +89,7 @@ agent-os (kernel)
 
 ---
 
-## Skills & tools
+## 🛠️ Skills & tools
 **Languages:** TypeScript · Python · Rust  
 **Frontend:** Next.js · React · Tailwind · Three.js  
 **Backend:** FastAPI · Node · Supabase/Postgres  
@@ -102,7 +99,7 @@ agent-os (kernel)
 
 ---
 
-## Ecosystem highlights (legacy projects)
+## 🌟 Ecosystem highlights (legacy projects)
 - **ROI-magic** — AI-assisted ROI scenarios · [Live](https://roi-magic.vercel.app) · [Code](https://github.com/N-i-k-e-t/ROI-magic)
 - **Prompt Factory** — prompt storefront + metadata experiments · [Live](https://prompt-ecommerce.vercel.app) · [Code](https://github.com/N-i-k-e-t/prompt-factory)
 - **Founders Co-Pilot** — multi-agent startup guidance (SPOT/DISQ/JTBD)
@@ -112,7 +109,7 @@ agent-os (kernel)
 
 ---
 
-## Live metrics
+## 📊 Live metrics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=N-i-k-e-t&theme=tokyonight&hide_border=true" alt="streak stats">
@@ -123,7 +120,7 @@ agent-os (kernel)
 
 ---
 
-## Reach out
+## 📬 Reach out
 - **GitHub:** [@N-i-k-e-t](https://github.com/N-i-k-e-t)
 - **Location:** Nashik, Maharashtra, India
 - **WhatsApp:** [Chat](https://wa.me/919022790410)
