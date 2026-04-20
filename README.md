@@ -61,7 +61,7 @@ Ship 10 products. First $2M ARR-equivalent across free + paid tiers. Public buil
 | [**agent-os**](https://github.com/N-i-k-e-t/agent-os) | The kernel for AI agents — scheduling, memory, permissions, inter-agent bus. Rust + WASM + TS SDK. | Concept — spec drafting |
 | [**stack-agent-os**](https://github.com/N-i-k-e-t/stack-agent-os) | Marketplace + runtime for composable domain agents. `npm + Vercel + Stripe` for AI agents. | MVP seeded |
 | [**sense-engine-agents**](https://github.com/N-i-k-e-t/sense-engine-agents) | Universal multimodal sense-layer (sight/sound/touch/context) for any AI agent. | MVP seeded |
-| [**ai-zoo**](https://github.com/N-i-k-e-t/ai-zoo) | Hosted marketplace of specialised agents users can rent per task. Revenue-share for authors. | New — creating |
+| [**ai-zoo**](https://github.com/N-i-k-e-t/ai-zoo-marketplace) | Hosted marketplace of specialised agents users can rent per task. Revenue-share for authors. | New — creating |
 | [**super-agent**](https://github.com/N-i-k-e-t/super-agent) | Single meta-agent that recruits + supervises sub-agents on demand. | New — spec |
 | [**crm-agents**](https://github.com/N-i-k-e-t/crm-agents) | Autonomous CRM — researches, enriches, emails, follows up. Replaces SDR at 1/10th cost. | New — creating |
 | [**trading-journal-agent**](https://github.com/N-i-k-e-t/trading-journal-agent) | Autonomous trade-journaling + tilt detection + pattern mining. | MVP seeded |
